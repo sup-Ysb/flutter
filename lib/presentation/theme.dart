@@ -20,7 +20,7 @@ final deliveryGradients= [
 
 final lightTheme = ThemeData(
 				textTheme: GoogleFonts.poppinsTextTheme().apply(
-								bodyColor: DeliveryColors.white,
-								displayColor: DeliveryColor.white
+								bodyColor: DeliveryColors.purple,
+								displayColor: DeliveryColor.purple,
 				),
 );
